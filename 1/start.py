@@ -1,15 +1,3 @@
-
-
-# print 'hello world'
-# print 'hello name'
-# name = 'name'
-# print 'hello ' + name
-
-# print 5
-# print 4+5
-# print 9*5
-# print 5**3
-
 # result = (4 + 5) / 3
 # print result
 # if 3 > 2:
