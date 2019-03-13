@@ -6,7 +6,7 @@ with open('5/helloka.txt') as openfileobject:
        sum += int(line)
 print(sum)
 
-
+# for fun
 # into dictonary  key - value pair
 commands = {}
 filename = '5/commands.txt'
